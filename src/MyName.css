@@ -1,0 +1,13 @@
+.MyName{
+    background-color: #282c34;
+    color: #282c34;
+    position: absolute;
+    left:0; right:0; top:10%; bottom:0;
+    margin:auto;
+}
+
+.MyName-test {
+    text-align: center;
+    font-size: calc(35px);
+    color: white;
+}
